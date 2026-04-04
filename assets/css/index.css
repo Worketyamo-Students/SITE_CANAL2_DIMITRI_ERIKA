@@ -10,8 +10,6 @@
     --marron:#443434;
     --noir:#000E01;
     --verrt:#79AC78;
-
-
 }
 
 *{
@@ -28,3 +26,5 @@ body{
     width: 100vw;
     height: 100vh;
 }
+
+@import "./style.css";
